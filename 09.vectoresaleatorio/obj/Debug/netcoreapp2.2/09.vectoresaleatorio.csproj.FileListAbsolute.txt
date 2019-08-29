@@ -1,0 +1,11 @@
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\09.vectoresaleatorio\bin\Debug\netcoreapp2.2\09.vectoresaleatorio.deps.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\09.vectoresaleatorio\bin\Debug\netcoreapp2.2\09.vectoresaleatorio.runtimeconfig.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\09.vectoresaleatorio\bin\Debug\netcoreapp2.2\09.vectoresaleatorio.runtimeconfig.dev.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\09.vectoresaleatorio\bin\Debug\netcoreapp2.2\09.vectoresaleatorio.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\09.vectoresaleatorio\bin\Debug\netcoreapp2.2\09.vectoresaleatorio.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\09.vectoresaleatorio\obj\Debug\netcoreapp2.2\09.vectoresaleatorio.csprojAssemblyReference.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\09.vectoresaleatorio\obj\Debug\netcoreapp2.2\09.vectoresaleatorio.csproj.CoreCompileInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\09.vectoresaleatorio\obj\Debug\netcoreapp2.2\09.vectoresaleatorio.AssemblyInfoInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\09.vectoresaleatorio\obj\Debug\netcoreapp2.2\09.vectoresaleatorio.AssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\09.vectoresaleatorio\obj\Debug\netcoreapp2.2\09.vectoresaleatorio.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\09.vectoresaleatorio\obj\Debug\netcoreapp2.2\09.vectoresaleatorio.pdb

@@ -1,0 +1,11 @@
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\14.vectorestadisticas\obj\Debug\netcoreapp2.2\14.vectorestadisticas.csprojAssemblyReference.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\14.vectorestadisticas\obj\Debug\netcoreapp2.2\14.vectorestadisticas.csproj.CoreCompileInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\14.vectorestadisticas\obj\Debug\netcoreapp2.2\14.vectorestadisticas.AssemblyInfoInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\14.vectorestadisticas\obj\Debug\netcoreapp2.2\14.vectorestadisticas.AssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\14.vectorestadisticas\bin\Debug\netcoreapp2.2\14.vectorestadisticas.deps.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\14.vectorestadisticas\bin\Debug\netcoreapp2.2\14.vectorestadisticas.runtimeconfig.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\14.vectorestadisticas\bin\Debug\netcoreapp2.2\14.vectorestadisticas.runtimeconfig.dev.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\14.vectorestadisticas\bin\Debug\netcoreapp2.2\14.vectorestadisticas.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\14.vectorestadisticas\bin\Debug\netcoreapp2.2\14.vectorestadisticas.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\14.vectorestadisticas\obj\Debug\netcoreapp2.2\14.vectorestadisticas.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\14.vectorestadisticas\obj\Debug\netcoreapp2.2\14.vectorestadisticas.pdb

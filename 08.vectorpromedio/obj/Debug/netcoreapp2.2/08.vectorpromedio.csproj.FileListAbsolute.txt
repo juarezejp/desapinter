@@ -1,0 +1,11 @@
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.deps.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.runtimeconfig.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.runtimeconfig.dev.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\08.vectorpromedio\bin\Debug\netcoreapp2.2\08.vectorpromedio.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.csprojAssemblyReference.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.csproj.CoreCompileInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.AssemblyInfoInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.AssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\08.vectorpromedio\obj\Debug\netcoreapp2.2\08.vectorpromedio.pdb
