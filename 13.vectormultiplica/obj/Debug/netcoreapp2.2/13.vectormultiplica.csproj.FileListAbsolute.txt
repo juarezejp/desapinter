@@ -1,0 +1,11 @@
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\13.vectormultiplica\bin\Debug\netcoreapp2.2\13.vectormultiplica.deps.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\13.vectormultiplica\bin\Debug\netcoreapp2.2\13.vectormultiplica.runtimeconfig.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\13.vectormultiplica\bin\Debug\netcoreapp2.2\13.vectormultiplica.runtimeconfig.dev.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\13.vectormultiplica\bin\Debug\netcoreapp2.2\13.vectormultiplica.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\13.vectormultiplica\bin\Debug\netcoreapp2.2\13.vectormultiplica.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\13.vectormultiplica\obj\Debug\netcoreapp2.2\13.vectormultiplica.csprojAssemblyReference.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\13.vectormultiplica\obj\Debug\netcoreapp2.2\13.vectormultiplica.csproj.CoreCompileInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\13.vectormultiplica\obj\Debug\netcoreapp2.2\13.vectormultiplica.AssemblyInfoInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\13.vectormultiplica\obj\Debug\netcoreapp2.2\13.vectormultiplica.AssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\13.vectormultiplica\obj\Debug\netcoreapp2.2\13.vectormultiplica.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\13.vectormultiplica\obj\Debug\netcoreapp2.2\13.vectormultiplica.pdb

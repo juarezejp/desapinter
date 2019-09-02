@@ -1,0 +1,11 @@
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\10.vectorcubo\bin\Debug\netcoreapp2.2\10.vectorcubo.deps.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\10.vectorcubo\bin\Debug\netcoreapp2.2\10.vectorcubo.runtimeconfig.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\10.vectorcubo\bin\Debug\netcoreapp2.2\10.vectorcubo.runtimeconfig.dev.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\10.vectorcubo\bin\Debug\netcoreapp2.2\10.vectorcubo.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\10.vectorcubo\bin\Debug\netcoreapp2.2\10.vectorcubo.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\10.vectorcubo\obj\Debug\netcoreapp2.2\10.vectorcubo.csprojAssemblyReference.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\10.vectorcubo\obj\Debug\netcoreapp2.2\10.vectorcubo.csproj.CoreCompileInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\10.vectorcubo\obj\Debug\netcoreapp2.2\10.vectorcubo.AssemblyInfoInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\10.vectorcubo\obj\Debug\netcoreapp2.2\10.vectorcubo.AssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\10.vectorcubo\obj\Debug\netcoreapp2.2\10.vectorcubo.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\10.vectorcubo\obj\Debug\netcoreapp2.2\10.vectorcubo.pdb

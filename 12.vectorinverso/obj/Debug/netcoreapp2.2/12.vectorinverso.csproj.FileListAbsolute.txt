@@ -1,0 +1,11 @@
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\12.vectorinverso\bin\Debug\netcoreapp2.2\12.vectorinverso.deps.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\12.vectorinverso\bin\Debug\netcoreapp2.2\12.vectorinverso.runtimeconfig.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\12.vectorinverso\bin\Debug\netcoreapp2.2\12.vectorinverso.runtimeconfig.dev.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\12.vectorinverso\bin\Debug\netcoreapp2.2\12.vectorinverso.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\12.vectorinverso\bin\Debug\netcoreapp2.2\12.vectorinverso.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\12.vectorinverso\obj\Debug\netcoreapp2.2\12.vectorinverso.csprojAssemblyReference.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\12.vectorinverso\obj\Debug\netcoreapp2.2\12.vectorinverso.csproj.CoreCompileInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\12.vectorinverso\obj\Debug\netcoreapp2.2\12.vectorinverso.AssemblyInfoInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\12.vectorinverso\obj\Debug\netcoreapp2.2\12.vectorinverso.AssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\12.vectorinverso\obj\Debug\netcoreapp2.2\12.vectorinverso.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\12.vectorinverso\obj\Debug\netcoreapp2.2\12.vectorinverso.pdb
