@@ -1,0 +1,11 @@
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\15.controlbancario\bin\Debug\netcoreapp2.2\15.controlbancario.deps.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\15.controlbancario\bin\Debug\netcoreapp2.2\15.controlbancario.runtimeconfig.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\15.controlbancario\bin\Debug\netcoreapp2.2\15.controlbancario.runtimeconfig.dev.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\15.controlbancario\bin\Debug\netcoreapp2.2\15.controlbancario.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\15.controlbancario\bin\Debug\netcoreapp2.2\15.controlbancario.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\15.controlbancario\obj\Debug\netcoreapp2.2\15.controlbancario.csprojAssemblyReference.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\15.controlbancario\obj\Debug\netcoreapp2.2\15.controlbancario.csproj.CoreCompileInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\15.controlbancario\obj\Debug\netcoreapp2.2\15.controlbancario.AssemblyInfoInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\15.controlbancario\obj\Debug\netcoreapp2.2\15.controlbancario.AssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\15.controlbancario\obj\Debug\netcoreapp2.2\15.controlbancario.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\15.controlbancario\obj\Debug\netcoreapp2.2\15.controlbancario.pdb
