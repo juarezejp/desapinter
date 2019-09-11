@@ -1,0 +1,11 @@
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\parcial01\obj\Debug\netcoreapp2.2\parcial01.csprojAssemblyReference.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\parcial01\obj\Debug\netcoreapp2.2\parcial01.csproj.CoreCompileInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\parcial01\obj\Debug\netcoreapp2.2\parcial01.AssemblyInfoInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\parcial01\obj\Debug\netcoreapp2.2\parcial01.AssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\parcial01\bin\Debug\netcoreapp2.2\parcial01.deps.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\parcial01\bin\Debug\netcoreapp2.2\parcial01.runtimeconfig.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\parcial01\bin\Debug\netcoreapp2.2\parcial01.runtimeconfig.dev.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\parcial01\bin\Debug\netcoreapp2.2\parcial01.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\parcial01\bin\Debug\netcoreapp2.2\parcial01.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\parcial01\obj\Debug\netcoreapp2.2\parcial01.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\parcial01\obj\Debug\netcoreapp2.2\parcial01.pdb

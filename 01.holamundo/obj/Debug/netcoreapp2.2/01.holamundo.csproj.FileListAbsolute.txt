@@ -1,0 +1,11 @@
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\01.holamundo\obj\Debug\netcoreapp2.2\01.holamundo.csprojAssemblyReference.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\01.holamundo\obj\Debug\netcoreapp2.2\01.holamundo.csproj.CoreCompileInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\01.holamundo\obj\Debug\netcoreapp2.2\01.holamundo.AssemblyInfoInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\01.holamundo\obj\Debug\netcoreapp2.2\01.holamundo.AssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\01.holamundo\bin\Debug\netcoreapp2.2\01.holamundo.deps.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\01.holamundo\bin\Debug\netcoreapp2.2\01.holamundo.runtimeconfig.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\01.holamundo\bin\Debug\netcoreapp2.2\01.holamundo.runtimeconfig.dev.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\01.holamundo\bin\Debug\netcoreapp2.2\01.holamundo.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\01.holamundo\bin\Debug\netcoreapp2.2\01.holamundo.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\01.holamundo\obj\Debug\netcoreapp2.2\01.holamundo.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\01.holamundo\obj\Debug\netcoreapp2.2\01.holamundo.pdb
