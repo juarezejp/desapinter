@@ -47,12 +47,17 @@ namespace parcial01{
 
             Console.WriteLine(">>Vulnerabilidades por nodo:\n");
             foreach(Nodo n in r.Nodos){
-                 Console.WriteLine($"> Ip: {n.Ip}, Tipo: {n.Tipo}\n");
-                 Console.WriteLine("Vulnerabilidades:\n");
-                 foreach(Vulnerabilidad v in n.Vulnerabilidades){
-                    Console.WriteLine($"Clave: {v.Clave}, Vendedor: {v.Vendedor}, Descripción: {v.Descripcion}, Tipo: {v.Tipo}, Fecha: {v.Fecha.ToString("d")}, Antigüedad:{v.getAntiguedad().Days}");
-                 }
-                 Console.WriteLine();
+                Console.WriteLine($"> Ip: {n.Ip}, Tipo: {n.Tipo}\n");
+                Console.WriteLine("Vulnerabilidades:\n");
+                if(n.Vulnerabilidades.Count>0){
+                    foreach(Vulnerabilidad v in n.Vulnerabilidades){
+                        Console.WriteLine($"Clave: {v.Clave}, Vendedor: {v.Vendedor}, Descripción: {v.Descripcion}, Tipo: {v.Tipo}, Fecha: {v.Fecha.ToString("d")}, Antigüedad:{v.getAntiguedad().Days} dias");
+                    }
+                }                 
+                else{
+                    Console.WriteLine("No tiene vulnerabilidades ...");
+                    }
+                Console.WriteLine();
             }
 
         }
