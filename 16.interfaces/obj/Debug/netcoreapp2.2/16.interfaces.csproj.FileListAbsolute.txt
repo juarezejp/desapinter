@@ -1,0 +1,11 @@
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\16.interfaces\bin\Debug\netcoreapp2.2\16.interfaces.deps.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\16.interfaces\bin\Debug\netcoreapp2.2\16.interfaces.runtimeconfig.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\16.interfaces\bin\Debug\netcoreapp2.2\16.interfaces.runtimeconfig.dev.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\16.interfaces\bin\Debug\netcoreapp2.2\16.interfaces.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\16.interfaces\bin\Debug\netcoreapp2.2\16.interfaces.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\16.interfaces\obj\Debug\netcoreapp2.2\16.interfaces.csprojAssemblyReference.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\16.interfaces\obj\Debug\netcoreapp2.2\16.interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\16.interfaces\obj\Debug\netcoreapp2.2\16.interfaces.AssemblyInfoInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\16.interfaces\obj\Debug\netcoreapp2.2\16.interfaces.AssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\16.interfaces\obj\Debug\netcoreapp2.2\16.interfaces.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\16.interfaces\obj\Debug\netcoreapp2.2\16.interfaces.pdb
