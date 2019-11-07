@@ -7,14 +7,24 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-
+using dvdCollection.Data;
+using Microsoft.Extensions.DependencyInjection;
 namespace dvdCollection
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run();
+            var host = CreateWebHostBuilder(args).Build();
+            
+            var scope = host.Services.CreateScope();
+            var services = scope.ServiceProvider;
+            var context = services.GetService<dvdCollectionContext>();
+
+            DbInitializer.Initializate(context);
+            
+            host.Run();
+
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
