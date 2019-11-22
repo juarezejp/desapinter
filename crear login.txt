@@ -1,0 +1,3 @@
+ dotnet aspnet-codegenerator identity --help 
+
+dotnet aspnet-codegenerator identity -dc dvdCollectionContext -u User -udui -sqlite

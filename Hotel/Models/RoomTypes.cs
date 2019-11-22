@@ -12,6 +12,8 @@ namespace Hotel.Models{
         [Required(ErrorMessage="El RoomType es obligatorio")]
         [StringLength(50)]
         public string RoomType {get;set;}
-
+        
+        
+        public ICollection<Rooms> Rooms {get;set;}
     }
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv4\\dvdCollection.csproj": {}
+    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollectionv4/dvdCollection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv4\\dvdCollection.csproj": {
+    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollectionv4/dvdCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv4\\dvdCollection.csproj",
+        "projectUniqueName": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollectionv4/dvdCollection.csproj",
         "projectName": "dvdCollection",
-        "projectPath": "C:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv4\\dvdCollection.csproj",
-        "packagesPath": "C:\\Users\\ELADIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv4\\obj\\",
+        "projectPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollectionv4/dvdCollection.csproj",
+        "packagesPath": "/Users/castr/.nuget/packages/",
+        "outputPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollectionv4/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ELADIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/castr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

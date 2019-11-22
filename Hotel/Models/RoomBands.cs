@@ -12,5 +12,7 @@ namespace Hotel.Models{
         [Required(ErrorMessage="El BandDesc es obligatorio")]
         [StringLength(50)]
         public string BandDesc {get;set;}
+
+        public ICollection<Rooms> Rooms {get;set;}
     }
 }

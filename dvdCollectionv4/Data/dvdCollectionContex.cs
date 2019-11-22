@@ -12,7 +12,7 @@ namespace dvdCollection.Data
         }
 
         public DbSet<Actors> Actors {get; set;}
-        public DbSet<Certificates> Certificates {get; set;}
+        public DbSet<FilmCertificates> FilmCertificates {get; set;}
         public DbSet<FilmGeneres> FilmGeneres {get; set;}
         public DbSet<FilmsActorRoles> FilmsActorRoles {get; set;}
         public DbSet<FilmTitles> FilmTitles {get; set;}

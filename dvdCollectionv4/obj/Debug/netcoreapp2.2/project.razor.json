@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv4\\dvdCollection.csproj",
+  "FilePath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollectionv4/dvdCollection.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2961,68 +2961,193 @@
   "RootNamespace": "dvdCollection",
   "Documents": [
     {
-      "FilePath": "Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "Views/FilmGeneres/Delete.cshtml",
+      "TargetPath": "Views/FilmGeneres/Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "Views/RoleTypes/Index.cshtml",
+      "TargetPath": "Views/RoleTypes/Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "Views/FilmCertificates/Create.cshtml",
+      "TargetPath": "Views/FilmCertificates/Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "Views/FilmTitles/Delete.cshtml",
+      "TargetPath": "Views/FilmTitles/Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\FilmGeneres\\Create.cshtml",
-      "TargetPath": "Views\\FilmGeneres\\Create.cshtml",
+      "FilePath": "Views/RoleTypes/Delete.cshtml",
+      "TargetPath": "Views/RoleTypes/Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Shared\\_CookieConsentPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FilePath": "Views/Producers/Details.cshtml",
+      "TargetPath": "Views/Producers/Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "Views/Home/Privacy.cshtml",
+      "TargetPath": "Views/Home/Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "Views/FilmGeneres/Details.cshtml",
+      "TargetPath": "Views/FilmGeneres/Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\FilmGeneres\\Delete.cshtml",
-      "TargetPath": "Views\\FilmGeneres\\Delete.cshtml",
+      "FilePath": "Views/Producers/Delete.cshtml",
+      "TargetPath": "Views/Producers/Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\FilmGeneres\\Edit.cshtml",
-      "TargetPath": "Views\\FilmGeneres\\Edit.cshtml",
+      "FilePath": "Views/FilmCertificates/Index.cshtml",
+      "TargetPath": "Views/FilmCertificates/Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\FilmGeneres\\Index.cshtml",
-      "TargetPath": "Views\\FilmGeneres\\Index.cshtml",
+      "FilePath": "Views/FilmCertificates/Edit.cshtml",
+      "TargetPath": "Views/FilmCertificates/Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "Views/Actors/Create.cshtml",
+      "TargetPath": "Views/Actors/Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\FilmGeneres\\Details.cshtml",
-      "TargetPath": "Views\\FilmGeneres\\Details.cshtml",
+      "FilePath": "Views/FilmGeneres/Index.cshtml",
+      "TargetPath": "Views/FilmGeneres/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/FilmTitles/Details.cshtml",
+      "TargetPath": "Views/FilmTitles/Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/FilmGeneres/Edit.cshtml",
+      "TargetPath": "Views/FilmGeneres/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/FilmCertificates/Delete.cshtml",
+      "TargetPath": "Views/FilmCertificates/Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/FilmGeneres/Create.cshtml",
+      "TargetPath": "Views/FilmGeneres/Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Producers/Edit.cshtml",
+      "TargetPath": "Views/Producers/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/FilmTitles/Index.cshtml",
+      "TargetPath": "Views/FilmTitles/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/FilmTitles/Edit.cshtml",
+      "TargetPath": "Views/FilmTitles/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Actors/Details.cshtml",
+      "TargetPath": "Views/Actors/Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/FilmTitles/Create.cshtml",
+      "TargetPath": "Views/FilmTitles/Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Actors/Index.cshtml",
+      "TargetPath": "Views/Actors/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Shared/_CookieConsentPartial.cshtml",
+      "TargetPath": "Views/Shared/_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Producers/Index.cshtml",
+      "TargetPath": "Views/Producers/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/Index.cshtml",
+      "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/RoleTypes/Create.cshtml",
+      "TargetPath": "Views/RoleTypes/Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/RoleTypes/Edit.cshtml",
+      "TargetPath": "Views/RoleTypes/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Shared/Error.cshtml",
+      "TargetPath": "Views/Shared/Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/_ViewImports.cshtml",
+      "TargetPath": "Views/_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Actors/Delete.cshtml",
+      "TargetPath": "Views/Actors/Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/_ViewStart.cshtml",
+      "TargetPath": "Views/_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/FilmCertificates/Details.cshtml",
+      "TargetPath": "Views/FilmCertificates/Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views/Shared/_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Actors/Edit.cshtml",
+      "TargetPath": "Views/Actors/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Producers/Create.cshtml",
+      "TargetPath": "Views/Producers/Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/RoleTypes/Details.cshtml",
+      "TargetPath": "Views/RoleTypes/Details.cshtml",
       "FileKind": "mvc"
     }
   ],

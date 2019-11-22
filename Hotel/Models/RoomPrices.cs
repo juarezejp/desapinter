@@ -11,5 +11,7 @@ namespace Hotel.Models{
         [Display(Name="BandDesc",Prompt="BandDesc")]
         [Required(ErrorMessage="El BandDesc es obligatorio")]
         public double RoomPrice {get;set;}
+
+        public ICollection<Rooms> Rooms {get;set;}
     }
 }

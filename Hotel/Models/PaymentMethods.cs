@@ -12,5 +12,7 @@ namespace Hotel.Models{
         [Required(ErrorMessage="El PaymentMethod es obligatorio")]
         [StringLength(50)]
         public string PaymentMethod {get;set;}
+
+        ICollection<Payments> Payments {get;set;}
     }
 }

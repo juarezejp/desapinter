@@ -12,5 +12,8 @@ namespace Hotel.Models{
         [Required(ErrorMessage="El FacilityDesc es obligatorio")]
         [StringLength(50)]
         public string FacilityDesc {get;set;}
+
+
+        public ICollection<LINK_RoomsFacilities> LINK_RoomsFacilities {get;set;}
     }
 }

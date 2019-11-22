@@ -52,6 +52,9 @@ namespace Hotel.Models{
         [DataType(DataType.PhoneNumber)]
         public string GuestHomePhone {get;set;}
 
+
+        public ICollection<LINK_BookingsRooms> LINK_BookingsRooms {get;set;}
+        
         
     }
 }

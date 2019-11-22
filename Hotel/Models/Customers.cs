@@ -65,5 +65,10 @@ namespace Hotel.Models{
         public string CustomerEmail {get;set;}
 
         
+
+        public ICollection<Bookings> Bookings {get;set;}
+        public ICollection<Payments> Payments {get;set;}
+        
+
     }
 }
