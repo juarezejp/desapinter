@@ -15,16 +15,16 @@ namespace dvdCollection.Data
 
             // arreglo del tipo FilmGeneres 
             var FilmGeneres = new FilmGeneres[] {
-                new FilmGeneres {GenreDesc="Action"},
-                new FilmGeneres {GenreDesc="Aventure"},
-                new FilmGeneres {GenreDesc="Animation"},
-                new FilmGeneres {GenreDesc="Biography"},
-                new FilmGeneres {GenreDesc="Comedy"},
-                new FilmGeneres {GenreDesc="Crime"},
-                new FilmGeneres {GenreDesc="Drama"},
-                new FilmGeneres {GenreDesc="Family"},
-                new FilmGeneres {GenreDesc="Fantasy"},
-                new FilmGeneres {GenreDesc="History"}
+                new FilmGeneres {GenereDesc="Action"},
+                new FilmGeneres {GenereDesc="Aventure"},
+                new FilmGeneres {GenereDesc="Animation"},
+                new FilmGeneres {GenereDesc="Biography"},
+                new FilmGeneres {GenereDesc="Comedy"},
+                new FilmGeneres {GenereDesc="Crime"},
+                new FilmGeneres {GenereDesc="Drama"},
+                new FilmGeneres {GenereDesc="Family"},
+                new FilmGeneres {GenereDesc="Fantasy"},
+                new FilmGeneres {GenereDesc="History"}
             };
             // pasar el arreglo a la tabla de FilmGeneres en el modelo
             foreach(FilmGeneres g in FilmGeneres) {
@@ -44,33 +44,33 @@ namespace dvdCollection.Data
             foreach(FilmCertificates f in FilmCertificates) {
                 context.FilmCertificates.Add(f);
             }
-            context.SaveChanges();
+            context.SaveChanges(); 
 
-            // Actors
+            //actores
             var Actors = new Actors[] {
-                new Actors {ActorFullName="Linda Blair",ActorNotes="Es una actriz de cine estadounidense internacionalmente conocida por su papel de Regan MacNeil, la niña poseída por un demonio, en la película de terror"},
-                new Actors {ActorFullName="Scarlett Johansson",ActorNotes="es una actriz de cine, cantante y modelo estadounidense que alcanzó la fama con su papel en la película The Horse Whisperer"},
-                new Actors {ActorFullName="Keshia Knight Pulliam",ActorNotes="es una actriz estadounidense. Es conocida por su papel de infancia como Rudy Huxtabl"}
+                new Actors{ActorFullName="Linda Blair", ActorNotes="algoskdjfkjdkfjklasj;kldjf"},
+                new Actors{ActorFullName="Scarlett Johansson", ActorNotes="dfoskdjfkjdkfjklasj;kldjf"},
+                new Actors{ActorFullName="Kesia ", ActorNotes="dhsjfkasoskdjfkjdkfjklasj;kldjf"}
             };
-            foreach(Actors a in Actors) {
+            foreach(Actors a in Actors){
                 context.Actors.Add(a);
             }
             context.SaveChanges();
 
-            // RoleTypes
+            //RoleTypes
             var RoleTypes = new RoleTypes[] {
-                new RoleTypes {RoleDesc="Lead"},
-                new RoleTypes {RoleDesc="Principal"},
-                new RoleTypes {RoleDesc="Supporting"},
-                new RoleTypes {RoleDesc="Featured"},
-                new RoleTypes {RoleDesc="Extra"},
+                new RoleTypes{RoleDesc="Lead"},
+                new RoleTypes{RoleDesc="Principal "},
+                new RoleTypes{RoleDesc="Supportin"},
+                new RoleTypes{RoleDesc="Featured"},
+                new RoleTypes{RoleDesc="Extra"}
             };
-            foreach(RoleTypes r in RoleTypes) {
+            foreach(RoleTypes r in RoleTypes){
                 context.RoleTypes.Add(r);
             }
             context.SaveChanges();
 
-            // Producers
+             // Producers
             var Producers = new Producers[] {
                 new Producers {ProducerName="Alejandro González Iñárritu",ContactEmailAddress="alegon@gmail.com",WebSite="http://alegon.com"},
                 new Producers {ProducerName="Alfonso Cuarón",ContactEmailAddress="cuaron@yahoo.com",WebSite="http://cuaron.tv   "},
@@ -79,8 +79,7 @@ namespace dvdCollection.Data
             foreach(Producers p in Producers) {
                 context.Producers.Add(p);
             }
-            context.SaveChanges();
-
+            context.SaveChanges(); 
             // FilmTitles
             var FilmTitles = new FilmTitles[] {
                 new FilmTitles {FilmTitle="El laberinto del fauno",
@@ -90,11 +89,7 @@ namespace dvdCollection.Data
             foreach(FilmTitles t in FilmTitles) {
                 context.FilmTitles.Add(t);
             }
-            context.SaveChanges();
-
-
-
-
+            context.SaveChanges(); 
         }
     }
-}
+} 
