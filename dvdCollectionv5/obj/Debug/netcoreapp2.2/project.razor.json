@@ -15,7 +15,7 @@
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
-        "Documentation": null,
+        "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;a&gt; elements.\n            </summary>\n        ",
         "TagOutputHint": null,
         "CaseSensitive": false,
         "TagMatchingRules": [
@@ -2869,7 +2869,7 @@
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.SpaServices.Prerendering.PrerenderTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.SpaServices",
-        "Documentation": null,
+        "Documentation": "\n            <summary>\n            A tag helper for prerendering JavaScript applications on the server.\n            </summary>\n        ",
         "TagOutputHint": null,
         "CaseSensitive": false,
         "TagMatchingRules": [
@@ -2898,7 +2898,7 @@
             "IsEnum": false,
             "IndexerNamePrefix": null,
             "IndexerTypeName": null,
-            "Documentation": null,
+            "Documentation": "\n            <summary>\n            Specifies the path to the JavaScript module containing prerendering code.\n            </summary>\n        ",
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "ModuleName"
@@ -2912,7 +2912,7 @@
             "IsEnum": false,
             "IndexerNamePrefix": null,
             "IndexerTypeName": null,
-            "Documentation": null,
+            "Documentation": "\n            <summary>\n            If set, specifies the name of the CommonJS export that is the prerendering function to execute.\n            If not set, the JavaScript module's default CommonJS export must itself be the prerendering function.\n            </summary>\n        ",
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "ExportName"
@@ -2926,7 +2926,7 @@
             "IsEnum": false,
             "IndexerNamePrefix": null,
             "IndexerTypeName": null,
-            "Documentation": null,
+            "Documentation": "\n            <summary>\n            An optional JSON-serializable parameter to be supplied to the prerendering code.\n            </summary>\n        ",
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "CustomDataParameter"
@@ -2940,7 +2940,7 @@
             "IsEnum": false,
             "IndexerNamePrefix": null,
             "IndexerTypeName": null,
-            "Documentation": null,
+            "Documentation": "\n            <summary>\n            The maximum duration to wait for prerendering to complete.\n            </summary>\n        ",
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "TimeoutMillisecondsParameter"
@@ -2961,208 +2961,208 @@
   "RootNamespace": "dvdCollection",
   "Documents": [
     {
-      "FilePath": "Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Actors\\Edit.cshtml",
-      "TargetPath": "Views\\Actors\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Producers\\Create.cshtml",
-      "TargetPath": "Views\\Producers\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Producers\\Edit.cshtml",
-      "TargetPath": "Views\\Producers\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmCertificates\\Details.cshtml",
-      "TargetPath": "Views\\FilmCertificates\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Actors\\Delete.cshtml",
-      "TargetPath": "Views\\Actors\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Actors\\Details.cshtml",
-      "TargetPath": "Views\\Actors\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\RoleTypes\\Index.cshtml",
-      "TargetPath": "Views\\RoleTypes\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmTitles\\Edit.cshtml",
-      "TargetPath": "Views\\FilmTitles\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmCertificates\\Delete.cshtml",
-      "TargetPath": "Views\\FilmCertificates\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Actors\\Create.cshtml",
-      "TargetPath": "Views\\Actors\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmTitles\\Delete.cshtml",
-      "TargetPath": "Views\\FilmTitles\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmTitles\\Index.cshtml",
-      "TargetPath": "Views\\FilmTitles\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmGeneres\\Create.cshtml",
-      "TargetPath": "Views\\FilmGeneres\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\RoleTypes\\Details.cshtml",
-      "TargetPath": "Views\\RoleTypes\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Shared\\_CookieConsentPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Producers\\Delete.cshtml",
-      "TargetPath": "Views\\Producers\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmCertificates\\Edit.cshtml",
-      "TargetPath": "Views\\FilmCertificates\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmTitles\\Create.cshtml",
-      "TargetPath": "Views\\FilmTitles\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmGeneres\\Delete.cshtml",
-      "TargetPath": "Views\\FilmGeneres\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmGeneres\\Edit.cshtml",
-      "TargetPath": "Views\\FilmGeneres\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmGeneres\\Index.cshtml",
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmGeneres\\Index.cshtml",
       "TargetPath": "Views\\FilmGeneres\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Actors\\Details.cshtml",
+      "TargetPath": "Views\\Actors\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\FilmCertificates\\Index.cshtml",
-      "TargetPath": "Views\\FilmCertificates\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Actors\\Index.cshtml",
-      "TargetPath": "Views\\Actors\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\RoleTypes\\Create.cshtml",
-      "TargetPath": "Views\\RoleTypes\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Producers\\Index.cshtml",
-      "TargetPath": "Views\\Producers\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmTitles\\Details.cshtml",
-      "TargetPath": "Views\\FilmTitles\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\FilmCertificates\\Create.cshtml",
-      "TargetPath": "Views\\FilmCertificates\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\RoleTypes\\Edit.cshtml",
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\RoleTypes\\Edit.cshtml",
       "TargetPath": "Views\\RoleTypes\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Producers\\Details.cshtml",
-      "TargetPath": "Views\\Producers\\Details.cshtml",
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\RoleTypes\\Delete.cshtml",
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\RoleTypes\\Index.cshtml",
+      "TargetPath": "Views\\RoleTypes\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmGeneres\\Edit.cshtml",
+      "TargetPath": "Views\\FilmGeneres\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Producers\\Edit.cshtml",
+      "TargetPath": "Views\\Producers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Producers\\Create.cshtml",
+      "TargetPath": "Views\\Producers\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Actors\\Edit.cshtml",
+      "TargetPath": "Views\\Actors\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Actors\\Index.cshtml",
+      "TargetPath": "Views\\Actors\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmGeneres\\Create.cshtml",
+      "TargetPath": "Views\\FilmGeneres\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmTitles\\Edit.cshtml",
+      "TargetPath": "Views\\FilmTitles\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmCertificates\\Delete.cshtml",
+      "TargetPath": "Views\\FilmCertificates\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmTitles\\Index.cshtml",
+      "TargetPath": "Views\\FilmTitles\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\RoleTypes\\Delete.cshtml",
       "TargetPath": "Views\\RoleTypes\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\FilmGeneres\\Details.cshtml",
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmCertificates\\Index.cshtml",
+      "TargetPath": "Views\\FilmCertificates\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmGeneres\\Delete.cshtml",
+      "TargetPath": "Views\\FilmGeneres\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmTitles\\Details.cshtml",
+      "TargetPath": "Views\\FilmTitles\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Actors\\Delete.cshtml",
+      "TargetPath": "Views\\Actors\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmTitles\\Create.cshtml",
+      "TargetPath": "Views\\FilmTitles\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Producers\\Details.cshtml",
+      "TargetPath": "Views\\Producers\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmCertificates\\Edit.cshtml",
+      "TargetPath": "Views\\FilmCertificates\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Actors\\Create.cshtml",
+      "TargetPath": "Views\\Actors\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\RoleTypes\\Details.cshtml",
+      "TargetPath": "Views\\RoleTypes\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\RoleTypes\\Create.cshtml",
+      "TargetPath": "Views\\RoleTypes\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmTitles\\Delete.cshtml",
+      "TargetPath": "Views\\FilmTitles\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Producers\\Delete.cshtml",
+      "TargetPath": "Views\\Producers\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmCertificates\\Details.cshtml",
+      "TargetPath": "Views\\FilmCertificates\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmGeneres\\Details.cshtml",
       "TargetPath": "Views\\FilmGeneres\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\Producers\\Index.cshtml",
+      "TargetPath": "Views\\Producers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv5\\Views\\FilmCertificates\\Create.cshtml",
+      "TargetPath": "Views\\FilmCertificates\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
