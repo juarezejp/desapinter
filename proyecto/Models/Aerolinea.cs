@@ -11,6 +11,5 @@ namespace proyecto.Models
         [Required(ErrorMessage="El ruc es obligatorio")]
         public int ruc{get;set;}
 
-        
     }
 }
