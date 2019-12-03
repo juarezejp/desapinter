@@ -73,3 +73,16 @@ C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp
 C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aeropuerto\Details.g.cshtml.cs
 C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aeropuerto\Edit.g.cshtml.cs
 C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aeropuerto\Index.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Paisto\Create.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Paisto\Delete.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Paisto\Details.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Paisto\Edit.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Paisto\Index.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aerolinea\Create.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aerolinea\Delete.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aerolinea\Details.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aerolinea\Edit.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aerolinea\Index.g.cshtml.cs
+c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs

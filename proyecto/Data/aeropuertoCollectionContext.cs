@@ -18,6 +18,8 @@ namespace proyecto.Data
         public DbSet<proyecto.Models.Avion> Avion { get; set; }
         public DbSet<proyecto.Models.Pasajero> Pasajero { get; set; }
         public DbSet<proyecto.Models.Aeropuerto> Aeropuerto { get; set; }
+        public DbSet<proyecto.Models.Pais> Pais { get; set; }
+        public DbSet<proyecto.Models.Aerolinea> Aerolinea { get; set; }
 
 
 
