@@ -28,8 +28,48 @@ c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp
 c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\proyecto.dll
 c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\proyecto.pdb
 C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\proyecto.csproj.CopyComplete
-c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\aeropuerto\Create.g.cshtml.cs
-c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\aeropuerto\Delete.g.cshtml.cs
-c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\aeropuerto\Details.g.cshtml.cs
-c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\aeropuerto\Edit.g.cshtml.cs
-c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\aeropuerto\Index.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\bin\Debug\netcoreapp2.2\proyecto.deps.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\bin\Debug\netcoreapp2.2\proyecto.runtimeconfig.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\bin\Debug\netcoreapp2.2\proyecto.runtimeconfig.dev.json
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\bin\Debug\netcoreapp2.2\proyecto.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\bin\Debug\netcoreapp2.2\proyecto.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\bin\Debug\netcoreapp2.2\proyecto.Views.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\bin\Debug\netcoreapp2.2\proyecto.Views.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.csprojAssemblyReference.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.RazorAssemblyInfo.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.RazorAssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.AssemblyInfoInputs.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.AssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.TagHelpers.input.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.TagHelpers.output.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.RazorCoreGenerate.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.RazorTargetAssemblyInfo.cache
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.RazorTargetAssemblyInfo.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.Views.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.dll
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.pdb
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto - copia\obj\Debug\netcoreapp2.2\proyecto.csproj.CopyComplete
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Avion\Create.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Avion\Delete.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Avion\Details.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Avion\Edit.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Avion\Index.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Pasajero\Create.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Pasajero\Delete.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Pasajero\Details.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Pasajero\Edit.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Pasajero\Index.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aeropuerto\Create.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aeropuerto\Delete.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aeropuerto\Details.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aeropuerto\Edit.g.cshtml.cs
+C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\Aeropuerto\Index.g.cshtml.cs

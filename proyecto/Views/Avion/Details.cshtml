@@ -1,0 +1,42 @@
+@model proyecto.Models.Avion
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Avion</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.fabricante)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.fabricante)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.tipo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.tipo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.capacidad)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.capacidad)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Aerolinea)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Aerolinea.IDAerolinea)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IDAvion">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

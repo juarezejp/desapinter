@@ -10,23 +10,23 @@ using proyecto.Models;
 
 namespace proyecto.Controllers
 {
-    public class AeropuertoController : Controller
+    public class AvionController : Controller
     {
         private readonly aeropuertoCollectionContext _context;
 
-        public AeropuertoController(aeropuertoCollectionContext context)
+        public AvionController(aeropuertoCollectionContext context)
         {
             _context = context;
         }
 
-        // GET: Aeropuerto
+        // GET: Avion
         public async Task<IActionResult> Index()
         {
-            var aeropuertoCollectionContext = _context.Aeropuerto.Include(a => a.Pais);
+            var aeropuertoCollectionContext = _context.Avion.Include(a => a.Aerolinea);
             return View(await aeropuertoCollectionContext.ToListAsync());
         }
 
-        // GET: Aeropuerto/Details/5
+        // GET: Avion/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -34,42 +34,42 @@ namespace proyecto.Controllers
                 return NotFound();
             }
 
-            var aeropuerto = await _context.Aeropuerto
-                .Include(a => a.Pais)
-                .FirstOrDefaultAsync(m => m.IDAeropuerto == id);
-            if (aeropuerto == null)
+            var avion = await _context.Avion
+                .Include(a => a.Aerolinea)
+                .FirstOrDefaultAsync(m => m.IDAvion == id);
+            if (avion == null)
             {
                 return NotFound();
             }
 
-            return View(aeropuerto);
+            return View(avion);
         }
 
-        // GET: Aeropuerto/Create
+        // GET: Avion/Create
         public IActionResult Create()
         {
-            ViewData["IDPais"] = new SelectList(_context.Set<Pais>(), "IDPais", "nombre");
+            ViewData["IDAerolinea"] = new SelectList(_context.Set<Aerolinea>(), "IDAerolinea", "IDAerolinea");
             return View();
         }
 
-        // POST: Aeropuerto/Create
+        // POST: Avion/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IDAeropuerto,nombre,IDPais")] Aeropuerto aeropuerto)
+        public async Task<IActionResult> Create([Bind("IDAvion,IDAerolinea,fabricante,tipo,capacidad")] Avion avion)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(aeropuerto);
+                _context.Add(avion);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["IDPais"] = new SelectList(_context.Set<Pais>(), "IDPais", "nombre", aeropuerto.IDPais);
-            return View(aeropuerto);
+            ViewData["IDAerolinea"] = new SelectList(_context.Set<Aerolinea>(), "IDAerolinea", "IDAerolinea", avion.IDAerolinea);
+            return View(avion);
         }
 
-        // GET: Aeropuerto/Edit/5
+        // GET: Avion/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -77,23 +77,23 @@ namespace proyecto.Controllers
                 return NotFound();
             }
 
-            var aeropuerto = await _context.Aeropuerto.FindAsync(id);
-            if (aeropuerto == null)
+            var avion = await _context.Avion.FindAsync(id);
+            if (avion == null)
             {
                 return NotFound();
             }
-            ViewData["IDPais"] = new SelectList(_context.Set<Pais>(), "IDPais", "nombre", aeropuerto.IDPais);
-            return View(aeropuerto);
+            ViewData["IDAerolinea"] = new SelectList(_context.Set<Aerolinea>(), "IDAerolinea", "IDAerolinea", avion.IDAerolinea);
+            return View(avion);
         }
 
-        // POST: Aeropuerto/Edit/5
+        // POST: Avion/Edit/5
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("IDAeropuerto,nombre,IDPais")] Aeropuerto aeropuerto)
+        public async Task<IActionResult> Edit(int id, [Bind("IDAvion,IDAerolinea,fabricante,tipo,capacidad")] Avion avion)
         {
-            if (id != aeropuerto.IDAeropuerto)
+            if (id != avion.IDAvion)
             {
                 return NotFound();
             }
@@ -102,12 +102,12 @@ namespace proyecto.Controllers
             {
                 try
                 {
-                    _context.Update(aeropuerto);
+                    _context.Update(avion);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!AeropuertoExists(aeropuerto.IDAeropuerto))
+                    if (!AvionExists(avion.IDAvion))
                     {
                         return NotFound();
                     }
@@ -118,11 +118,11 @@ namespace proyecto.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["IDPais"] = new SelectList(_context.Set<Pais>(), "IDPais", "nombre", aeropuerto.IDPais);
-            return View(aeropuerto);
+            ViewData["IDAerolinea"] = new SelectList(_context.Set<Aerolinea>(), "IDAerolinea", "IDAerolinea", avion.IDAerolinea);
+            return View(avion);
         }
 
-        // GET: Aeropuerto/Delete/5
+        // GET: Avion/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -130,31 +130,31 @@ namespace proyecto.Controllers
                 return NotFound();
             }
 
-            var aeropuerto = await _context.Aeropuerto
-                .Include(a => a.Pais)
-                .FirstOrDefaultAsync(m => m.IDAeropuerto == id);
-            if (aeropuerto == null)
+            var avion = await _context.Avion
+                .Include(a => a.Aerolinea)
+                .FirstOrDefaultAsync(m => m.IDAvion == id);
+            if (avion == null)
             {
                 return NotFound();
             }
 
-            return View(aeropuerto);
+            return View(avion);
         }
 
-        // POST: Aeropuerto/Delete/5
+        // POST: Avion/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var aeropuerto = await _context.Aeropuerto.FindAsync(id);
-            _context.Aeropuerto.Remove(aeropuerto);
+            var avion = await _context.Avion.FindAsync(id);
+            _context.Avion.Remove(avion);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool AeropuertoExists(int id)
+        private bool AvionExists(int id)
         {
-            return _context.Aeropuerto.Any(e => e.IDAeropuerto == id);
+            return _context.Avion.Any(e => e.IDAvion == id);
         }
     }
 }

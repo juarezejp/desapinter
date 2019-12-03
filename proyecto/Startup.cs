@@ -1,4 +1,4 @@
-using System;
+//using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +16,6 @@ using proyecto.Data;
 
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization; 
-using dvdCollection.Data;
 
 
 namespace proyecto
@@ -40,13 +39,10 @@ namespace proyecto
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            services.AddDbContext<aeropuertopCollectionContext>( 
+            services.AddDbContext<aeropuertoCollectionContext>( 
                 options => options.UseSqlite(Configuration.GetConnectionString("DefaultConnection") ) );
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-
-            services.AddDbContext<dvdCollectionContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("dvdCollectionContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
