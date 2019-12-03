@@ -23,7 +23,7 @@ namespace proyecto
             var services = scope.ServiceProvider;
             var contex = services.GetService<aeropuertoCollectionContext>();
 
-           // DbInitializer.Initializate(contex);
+            DbInitializer.Initializate(contex);
             
             host.Run();
             

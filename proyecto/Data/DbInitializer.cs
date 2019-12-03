@@ -9,7 +9,7 @@ namespace proyecto.Data
         public static void Initializate(aeropuertoCollectionContext context) {
             context.Database.EnsureCreated(); // crea bd si no existe
 
-            if(context.Pasajero.Any()) {
+           /* if(context.Pasajero.Any()) {
                 return; // la bd ya tiene datos
             }
 
@@ -47,7 +47,7 @@ namespace proyecto.Data
             foreach(Avion a in Aviones){
                 context.Avion.Add(a);
             }
-            context.SaveChanges();
+            context.SaveChanges();*/
 
         }
 
