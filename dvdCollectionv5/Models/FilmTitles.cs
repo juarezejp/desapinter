@@ -21,6 +21,7 @@ namespace dvdCollection.Models {
         [DisplayFormat(DataFormatString="{0:dd-MM-yyyy}",ApplyFormatInEditMode=false)]
         public DateTime FilmRelaseDate { get; set;}
         public int FilmDuration { get; set;}
+        
         public int FilmGenereID { get; set;}
         public int FilmCertificateID { get; set;}
         public string FilmAdditionalInfo { get; set;}

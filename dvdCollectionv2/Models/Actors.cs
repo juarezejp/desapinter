@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace dvdCollection.Models {
 
     public class Actors {
-        [key]
+        [Key]
         [Display(Name="ID")]
         public int ActorID { get; set;}
         [Display(Name="Name",Prompt="Nombre completo del actor")]

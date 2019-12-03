@@ -12076,23 +12076,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/castr/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\ELADIO\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollection/dvdCollection.csproj",
+      "projectUniqueName": "C:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv1\\dvdCollection.csproj",
       "projectName": "dvdCollection",
-      "projectPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollection/dvdCollection.csproj",
-      "packagesPath": "/Users/castr/.nuget/packages/",
-      "outputPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollection/obj/",
+      "projectPath": "C:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv1\\dvdCollection.csproj",
+      "packagesPath": "C:\\Users\\ELADIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\dvdCollectionv1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/castr/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ELADIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

@@ -8,6 +8,7 @@ namespace dvdCollection.Models {
         public int FilmTitleID {get; set;}
         public int ActorID {get; set;}
         public int RoleTypeID {get; set;}
+        
         [Display(Name="Name",Prompt="Nombre del personaje")]
         [Required(ErrorMessage="El nombre del personaje es obligatorio")]
         [StringLength(80)]

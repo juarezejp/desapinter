@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace dvdCollection.Models {
 
     public class Certificates {
-        [key]
+        [Key]
         [Display(Name="ID")]
         public int CertificateID { get; set;}
         [Display(Name="Description",Prompt="Descripcion del certificado")]

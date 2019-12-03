@@ -1,10 +1,11 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
+
 namespace dvdCollection.Models {
 
     public class FilmGeneres {
-        [key]
+        [Key]
         [Display(Name="ID")]
         public int GenereID { get; set;}
         [Display(Name="Description",Prompt="Descripcion del genero")]

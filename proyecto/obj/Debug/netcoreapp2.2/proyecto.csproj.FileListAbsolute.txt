@@ -28,3 +28,8 @@ c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp
 c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\proyecto.dll
 c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\proyecto.pdb
 C:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\proyecto.csproj.CopyComplete
+c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\aeropuerto\Create.g.cshtml.cs
+c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\aeropuerto\Delete.g.cshtml.cs
+c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\aeropuerto\Details.g.cshtml.cs
+c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\aeropuerto\Edit.g.cshtml.cs
+c:\Users\ELADIO\Documents\uni\AplicacionesInternet\proyecto\obj\Debug\netcoreapp2.2\Razor\Views\aeropuerto\Index.g.cshtml.cs

@@ -2971,6 +2971,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\proyecto\\Views\\aeropuerto\\Index.cshtml",
+      "TargetPath": "Views\\aeropuerto\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\proyecto\\Views\\aeropuerto\\Create.cshtml",
+      "TargetPath": "Views\\aeropuerto\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\proyecto\\Views\\aeropuerto\\Delete.cshtml",
+      "TargetPath": "Views\\aeropuerto\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\proyecto\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -2991,8 +3006,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\proyecto\\Views\\aeropuerto\\Details.cshtml",
+      "TargetPath": "Views\\aeropuerto\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\proyecto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ELADIO\\Documents\\uni\\AplicacionesInternet\\proyecto\\Views\\aeropuerto\\Edit.cshtml",
+      "TargetPath": "Views\\aeropuerto\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -1,17 +1,18 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
+
 namespace dvdCollection.Models {
 
     public class Producers {
-        [key]
+        [Key]
         [Display(Name="ID")]
         public int ProducerID {get; set;}
-        [Display(Name="Name",Prompt="Nombre completo del actor")]
-        [Required(ErrorMessage="El nombre del actor es obligatorio")]
+        [Display(Name="Name",Prompt="Nombre completo del Productor")]
+        [Required(ErrorMessage="El nombre del Productor es obligatorio")]
         [StringLength(80)]
         public string ProducerName {get; set;}
-        [Display(Name="Email",Prompt="Correo Electronico del productor")]
+        [Display(Name="Email",Prompt="Correo Electronico del Productor")]
         [DataType(DataType.EmailAddress)]
         public string ContactEmailAddress {get; set;}
         [DataType(DataType.Url)]

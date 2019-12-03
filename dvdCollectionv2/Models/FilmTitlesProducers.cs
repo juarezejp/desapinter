@@ -1,10 +1,10 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
+
 namespace dvdCollection.Models {
 
     public class FilmTitlesProducers {
-        
         public int ProducerID {get; set;}
         public int FilmTitleID {get; set;}
 
