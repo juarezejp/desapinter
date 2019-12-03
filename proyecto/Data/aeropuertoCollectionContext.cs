@@ -1,13 +1,13 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
 using Microsoft.EntityFrameworkCore;
 using proyecto.Models;
 
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 namespace proyecto.Data
 {
-    public class aeropuertoCollectionContext : DbContext
+    //public class aeropuertoCollectionContext : DbContext
+    public class aeropuertoCollectionContext : IdentityDbContext<User>
     {
         public aeropuertoCollectionContext (DbContextOptions<aeropuertoCollectionContext> options)
             : base(options)

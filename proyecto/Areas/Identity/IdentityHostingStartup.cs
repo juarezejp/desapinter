@@ -1,5 +1,6 @@
 using System;
-
+using proyecto.Data;
+using proyecto.Models;
 
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
@@ -7,7 +8,7 @@ using Microsoft.AspNetCore.Identity.UI;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using proyecto.Areas.Identity.Data;
+
 
 [assembly: HostingStartup(typeof(proyecto.Areas.Identity.IdentityHostingStartup))]
 namespace proyecto.Areas.Identity

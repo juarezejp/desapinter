@@ -16,16 +16,16 @@ namespace proyecto
     {
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run();
+           // CreateWebHostBuilder(args).Build().Run();
             var host = CreateWebHostBuilder(args).Build();
             
-            /*var scope = host.Services.CreateScope();
+            var scope = host.Services.CreateScope();
             var services = scope.ServiceProvider;
             var contex = services.GetService<aeropuertoCollectionContext>();
 
-            DbInitializer.Initializate(contex);
+           // DbInitializer.Initializate(contex);
             
-            host.Run();*/
+            host.Run();
             
         }
 
